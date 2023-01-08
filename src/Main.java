@@ -9,6 +9,6 @@ public class Main {
         int celsius = scanner.nextInt();
 
         // Prints the converted temperature in Fahrenheit.
-        System.out.println((9 * celsius) / 5 + 32);
+        System.out.println(9 * celsius / 5 + 32);
     }
 }
